@@ -64,10 +64,3 @@
   <h2>Contributing</h2>
 
   <p>Contributions are welcome! If you find any issues or have suggestions for improvements, please feel free to open an issue or create a pull request.</p>
-
-  <h2>License</h2>
-
-  <p>This project is licensed under the MIT License - see the <a href="LICENSE">LICENSE</a> file for details.</p>
-
-</body>
-</html>
